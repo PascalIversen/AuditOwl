@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 200" width="620" height="200">
+  <title>AuditOwl</title>
+  <desc>AuditOwl logo — geometric owl mark with code-bracket eyes and wordmark.</desc>
+
+  <g transform="translate(100, 100)" fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <!-- continuous head+body silhouette with integrated ear tufts -->
+    <path d="M -46 20 Q -46 46 -18 50 L 18 50 Q 46 46 46 20 L 46 -34 Q 46 -54 30 -60 L 24 -66 L 18 -54 Q 0 -58 -18 -54 L -24 -66 L -30 -60 Q -46 -54 -46 -34 Z" stroke="#1a1a1a" stroke-width="3.5"/>
+    <!-- eye rings -->
+    <circle cx="-19" cy="-22" r="20" stroke="#1a1a1a" stroke-width="3"/>
+    <circle cx="19" cy="-22" r="20" stroke="#1a1a1a" stroke-width="3"/>
+    <!-- white eye fill -->
+    <circle cx="-19" cy="-22" r="18" fill="#ffffff" stroke="none"/>
+    <circle cx="19" cy="-22" r="18" fill="#ffffff" stroke="none"/>
+    <!-- bracket pupils -->
+    <text x="-19" y="-16" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="16" font-weight="700" fill="#1a1a1a" stroke="none">{</text>
+    <text x="19" y="-16" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="16" font-weight="700" fill="#1a1a1a" stroke="none">}</text>
+    <!-- beak -->
+    <path d="M -7 6 L 0 20 L 7 6 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1"/>
+    <!-- chest chevrons -->
+    <path d="M -16 28 L 0 38 L 16 28" stroke="#1a1a1a" stroke-width="2.5" opacity="0.55"/>
+    <path d="M -11 40 L 0 46 L 11 40" stroke="#1a1a1a" stroke-width="2.5" opacity="0.35"/>
+  </g>
+
+  <text x="180" y="115" font-family="-apple-system, 'Segoe UI', system-ui, sans-serif" font-size="44" font-weight="600" fill="#1a1a1a">Audit<tspan fill="#2563eb">Owl</tspan></text>
+  <text x="182" y="142" font-family="-apple-system, 'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="400" fill="#666666" letter-spacing="0.3">scientific code audit kit</text>
+</svg>

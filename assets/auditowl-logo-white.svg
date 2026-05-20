@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 200" width="620" height="200">
+  <title>AuditOwl — white on dark</title>
+  <desc>AuditOwl logo, all white, for dark backgrounds.</desc>
+
+  <g transform="translate(100, 100)" fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M -46 20 Q -46 46 -18 50 L 18 50 Q 46 46 46 20 L 46 -34 Q 46 -54 30 -60 L 24 -66 L 18 -54 Q 0 -58 -18 -54 L -24 -66 L -30 -60 Q -46 -54 -46 -34 Z" stroke="#ffffff" stroke-width="3.5"/>
+    <circle cx="-19" cy="-22" r="20" stroke="#ffffff" stroke-width="3"/>
+    <circle cx="19" cy="-22" r="20" stroke="#ffffff" stroke-width="3"/>
+    <text x="-19" y="-16" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="16" font-weight="700" fill="#ffffff" stroke="none">{</text>
+    <text x="19" y="-16" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="16" font-weight="700" fill="#ffffff" stroke="none">}</text>
+    <path d="M -7 6 L 0 20 L 7 6 Z" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+    <path d="M -16 28 L 0 38 L 16 28" stroke="#ffffff" stroke-width="2.5" opacity="0.6"/>
+    <path d="M -11 40 L 0 46 L 11 40" stroke="#ffffff" stroke-width="2.5" opacity="0.4"/>
+  </g>
+
+  <text x="180" y="115" font-family="-apple-system, 'Segoe UI', system-ui, sans-serif" font-size="44" font-weight="600" fill="#ffffff">AuditOwl</text>
+  <text x="182" y="142" font-family="-apple-system, 'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="400" fill="#ffffff" opacity="0.7" letter-spacing="0.3">scientific code audit kit</text>
+</svg>
